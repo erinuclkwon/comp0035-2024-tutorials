@@ -616,6 +616,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.practice1
 env/
 venv/
 ENV/
